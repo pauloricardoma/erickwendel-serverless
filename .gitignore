@@ -1,0 +1,7 @@
+new_user_credentials.csv
+
+node_modules
+
+.serverless
+
+coverage
